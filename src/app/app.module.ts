@@ -5,7 +5,6 @@ import {MovieCardComponent} from "./components/movie-card/movie-card.component";
 import {NavBarComponent} from "./components/nav-bar/nav-bar.component";
 import { MovieListComponent } from './components/movie-list/movie-list.component';
 import {MovieService} from "./movie.service";
-import { FilterListComponent } from './components/filter-list/filter-list.component';
 
 @NgModule({
   declarations: [
@@ -13,7 +12,6 @@ import { FilterListComponent } from './components/filter-list/filter-list.compon
     MovieCardComponent,
     NavBarComponent,
     MovieListComponent,
-    FilterListComponent,
     
   ],
   imports: [
