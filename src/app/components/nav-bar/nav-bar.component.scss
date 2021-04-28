@@ -3,16 +3,24 @@ nav {
     // justify-content: space-between;
   
 
-    height: 210px;
-    font-size: 2em;
+    height: 200px;
+   
   
     h1 {
       padding-left: 40%;
-      color: red;
+      margin-bottom: 8%;
+      color:#e00707; 
+      font-size: 3em;
+
+      font-style: italic;
+      // size: 70px;
+      font-family: 'Courier New', Courier, monospace;
     }
   
      p{
-         padding-left:40%;
+         padding-left:30%;
+         margin-bottom: 2%;
+         font-size: 25px;
      }
    
     }
